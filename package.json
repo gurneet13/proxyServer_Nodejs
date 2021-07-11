@@ -1,0 +1,19 @@
+{
+  "name": "tcp_proxy_server_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurneet13/proxyServer_Nodejs.git"
+  },
+  "author": "Gurneet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurneet13/proxyServer_Nodejs/issues"
+  },
+  "homepage": "https://github.com/gurneet13/proxyServer_Nodejs#readme"
+}
